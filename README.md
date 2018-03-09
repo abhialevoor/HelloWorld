@@ -1,3 +1,3 @@
 # HelloWorld
-First ever Github Repo
+First ever Github Repository
 #Time for integration to slack
